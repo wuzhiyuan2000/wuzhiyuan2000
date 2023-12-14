@@ -1,4 +1,4 @@
-### Greetings！Welcome to my Github Profile👋
+### Greetings! Welcome to my Github Profile👋
 
 😆 I'm Zhiyuan Wu, a master student at **Institute of Computing Technology of Chinese Academy of Sciences**.
 
